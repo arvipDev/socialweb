@@ -1,0 +1,102 @@
+.full_body{
+  background: white;
+  color: white;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.left_div {
+  max-width: 30%;
+  text-align: center;
+  font-size: 16px;
+  margin: 15px;
+}
+
+#left-div h3 {
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.username_div {
+  background: #5472d3;
+  margin: 15px 0px;
+  padding: 15px;
+  box-shadow: 2px 2px 2px #90a4ae;
+}
+
+.community_div {
+  background: #0d47a1;
+  margin: 15px 0px;
+  padding: 15px;
+  box-shadow: 2px 2px 2px #90a4ae;
+}
+
+.following_div {
+  background: #002171;
+  margin-bottom: 15px;
+  padding: 15px;
+  box-shadow: 2px 2px 2px #90a4ae;
+}
+
+.followers_div {
+  background: #000a46;
+  margin-bottom: 15px;
+  padding: 15px;
+  box-shadow: 2px 2px 2px #90a4ae;
+}
+
+.right_div {
+  background: #bc477b;
+  color: white;
+  margin: 15px;
+  padding: 15px;
+  width: 70%;
+  box-shadow: 2px 2px 2px #90a4ae;
+}
+
+.right_form_submit {
+  box-sizing: border-box;
+}
+
+#submit-text {
+  width: 100%;
+  height: 60px;
+  line-height: 15px;
+  resize: none;
+  box-sizing: border-box;
+}
+
+.right_button_submit {
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+.right_button_submit {
+  background: #560027;
+  color: white;
+  line-height: 24px;
+}
+
+#body a:hover {
+  text-decoration: underline;
+  
+}
+
+.right_form_submit {
+
+}
+
+.right_list_submit {
+  background: black;
+  list-style-type: none;
+}
+
+.right_item_submit {
+  width: 100%;
+  background: #880e4f;
+  margin: 15px 0px;
+  padding: 15px;
+  box-sizing: border-box;
+}
